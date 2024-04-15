@@ -60,8 +60,11 @@ ChatGPT APIの仕様や利用規約については以下のリンクや公式サ
 音声を使う場合は、ローカルでSHARE VOXを同時に起動してください。
 https://www.sharevox.app/
 
-<img width="1141" alt="スクリーンショット 2024-04-15 19 19 38" src="https://github.com/kururu/ChatVRM/assets/909549/63774f5d-6b50-444e-9ec4-6a6ffd52c5b4">
+<img width="1254" alt="スクリーンショット 2024-04-15 23 07 40" src="https://github.com/kururu/ChatVRM/assets/909549/1e03a36c-6e0b-4815-805e-aefe04abbbdc">
 
 ## BGMを流す場合
-BGMは左上の設定ボタンをクリックすると流れます。
+BGMは左上のaudioタグを調整してください。
+音声ファイルは、デフォルトでは
+public/class-coffee.mp3
+に入っています。
 
