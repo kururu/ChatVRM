@@ -62,4 +62,6 @@ https://www.sharevox.app/
 
 <img width="1141" alt="スクリーンショット 2024-04-15 19 19 38" src="https://github.com/kururu/ChatVRM/assets/909549/63774f5d-6b50-444e-9ec4-6a6ffd52c5b4">
 
+## BGMを流す場合
+BGMは左上の設定ボタンをクリックすると流れます。
 
