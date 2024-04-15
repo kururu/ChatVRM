@@ -58,6 +58,7 @@ ChatGPT APIの仕様や利用規約については以下のリンクや公式サ
 
 ## SHARE VOXと連携
 音声を使う場合は、ローカルでSHARE VOXを同時に起動してください。
+
 <img width="1141" alt="スクリーンショット 2024-04-15 19 19 38" src="https://github.com/kururu/ChatVRM/assets/909549/63774f5d-6b50-444e-9ec4-6a6ffd52c5b4">
 
 
