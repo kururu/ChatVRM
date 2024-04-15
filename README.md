@@ -56,9 +56,5 @@ ChatGPT APIの仕様や利用規約については以下のリンクや公式サ
 - [https://openai.com/policies/api-data-usage-policies](https://openai.com/policies/api-data-usage-policies)
 
 
-## Koeiromap API
-ChatVRMでは返答文の音声読み上げにKoemotionのKoeiromap APIを使用しています。
-
-Koeiromap APIの仕様や利用規約については以下のリンクや公式サイトをご確認ください。
-
-- [https://koemotion.rinna.co.jp/](https://koemotion.rinna.co.jp/)
+## SHARE VOXと連携
+音声を使う場合は、ローカルでSHARE VOXを同時に起動してください。
