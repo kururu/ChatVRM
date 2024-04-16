@@ -64,6 +64,7 @@ https://www.sharevox.app/
 
 ## BGMを流す場合
 BGMは左上のaudioタグを調整してください。
+音量はデフォルトで中ぐらいになっています。
 
 音声ファイルは、デフォルトでは
 public/class-coffee.mp3
