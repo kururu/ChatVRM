@@ -79,5 +79,5 @@ public/class-coffee.mp3
 ## デモ動画
 
 ブラウザで実行したときの様子はこちらです。
-[![デモ動画]([https://user-images.githubusercontent.com/84756197/173222007-3aefa245-4c0e-45e6-9855-91f0e3be89ed.png](https://github.com/kururu/ChatVRM/assets/909549/5cba3a79-de30-417b-964f-1852a8bef24c))]([https://youtu.be/5aKI900iGVo?t=1336](https://www.youtube.com/watch?v=zuA4u-NkCT4))
 
+[![alt設定](https://github.com/kururu/ChatVRM/assets/909549/2fa68169-ac85-43b3-9214-2ebecac8de3d)](https://www.youtube.com/watch?v={zuA4u-NkCT4})
