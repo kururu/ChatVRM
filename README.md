@@ -50,6 +50,8 @@ npm run dev
 
 ChatVRMでは返答文の生成にChatGPT APIを使用しています。
 
+※SHAREVOX エンジンもしくはエディタを起動した状態で http://127.0.0.1:50025/docs にアクセスすると、起動中のエンジンのドキュメントも確認できます。
+
 ChatGPT APIの仕様や利用規約については以下のリンクや公式サイトをご確認ください。
 
 - [https://platform.openai.com/docs/api-reference/chat](https://platform.openai.com/docs/api-reference/chat)
