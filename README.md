@@ -26,7 +26,7 @@ Glitchでデモを公開しています。
 ローカル環境で実行する場合はこのリポジトリをクローンするか、ダウンロードしてください。
 
 ```bash
-git clone git@github.com:pixiv/ChatVRM.git
+git clone git@github.com:kururu/ChatVRM.git
 ```
 
 必要なパッケージをインストールしてください。

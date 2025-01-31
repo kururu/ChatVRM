@@ -120,7 +120,7 @@ export const Menu = ({
             iconName="24/Menu"
             label="設定"
             isProcessing={false}
-            onClick={() => { playBGM01(); setShowSettings(true); }}
+            onClick={() => { setShowSettings(true); }}
           ></IconButton>
           {showChatLog ? (
             <IconButton
