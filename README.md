@@ -33,7 +33,7 @@ Glitchでデモを公開しています。
 ローカル環境で実行する場合はこのリポジトリをクローンするか、ダウンロードしてください。
 
 ```bash
-git clone git@github.com:pixiv/ChatVRM.git
+git clone git@github.com:kururu/ChatVRM.git
 ```
 
 必要なパッケージをインストールしてください。
@@ -57,15 +57,37 @@ npm run dev
 
 ChatVRMでは返答文の生成にChatGPT APIを使用しています。
 
+※SHAREVOX エンジンもしくはエディタを起動した状態で http://127.0.0.1:50025/docs にアクセスすると、起動中のエンジンのドキュメントも確認できます。
+
 ChatGPT APIの仕様や利用規約については以下のリンクや公式サイトをご確認ください。
 
 - [https://platform.openai.com/docs/api-reference/chat](https://platform.openai.com/docs/api-reference/chat)
 - [https://openai.com/policies/api-data-usage-policies](https://openai.com/policies/api-data-usage-policies)
 
 
-## Koeiromap API
-ChatVRMでは返答文の音声読み上げにKoemotionのKoeiromap APIを使用しています。
+## SHARE VOXと連携
 
-Koeiromap APIの仕様や利用規約については以下のリンクや公式サイトをご確認ください。
+音声を使う場合は、ローカルでSHARE VOXを同時に起動してください。
 
-- [https://koemotion.rinna.co.jp/](https://koemotion.rinna.co.jp/)
+https://www.sharevox.app/
+
+<img width="1141" alt="スクリーンショット 2024-04-15 23 12 45" src="https://github.com/kururu/ChatVRM/assets/909549/9b691916-1b86-4ad7-b896-3e39e5b620da">
+
+## BGMを流す場合
+
+BGMは左上のaudioタグを調整してください。
+
+音量はデフォルトで中ぐらいになっています。
+
+音声ファイルは、
+デフォルトでは
+public/class-coffee.mp3
+に入っています。
+
+<img width="1254" alt="スクリーンショット 2024-04-15 23 07 40" src="https://github.com/kururu/ChatVRM/assets/909549/1e03a36c-6e0b-4815-805e-aefe04abbbdc">
+
+## デモ動画
+
+ブラウザで実行したときの様子はこちらです。
+
+[![デモ動画](https://github.com/kururu/ChatVRM/assets/909549/2fa68169-ac85-43b3-9214-2ebecac8de3d)](https://www.youtube.com/watch?v=zuA4u-NkCT4)
