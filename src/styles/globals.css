@@ -105,3 +105,9 @@ border-radius: 50px;
 .margin-bottom10{
   margin-bottom: 10px;
 }
+
+.GitHubLink{
+  right: inherit;
+  left: 0px;
+  top: 115px;
+}
