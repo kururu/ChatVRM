@@ -81,7 +81,7 @@ BGMは左上のaudioタグを調整してください。
 
 音声ファイルは、
 デフォルトでは
-public/class-coffee.mp3
+public/bgm01.mp3
 に入っています。
 
 <img width="1254" alt="スクリーンショット 2024-04-15 23 07 40" src="https://github.com/kururu/ChatVRM/assets/909549/1e03a36c-6e0b-4815-805e-aefe04abbbdc">

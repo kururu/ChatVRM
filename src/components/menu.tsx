@@ -102,7 +102,7 @@ export const Menu = ({
 
   // BGM再生
   const playBGM01 = () => {
-    const audio = new Audio('/class-coffee.mp3');
+    const audio = new Audio('/bgm01.mp3');
     audio.loop = true; // ループ再生
     audio.volume = 0.5; // 音量50%
     if (!bgmPlayed) {
@@ -114,7 +114,7 @@ export const Menu = ({
   return (
     <>
       <div className="absolute z-10 m-24">
-      <audio src="/class-coffee.mp3" id="audio01" className="margin-bottom10" controls loop />
+      <audio src="/bgm01.mp3" id="audio01" className="margin-bottom10" controls loop />
         <div className="grid grid-flow-col gap-[8px]">
           <IconButton
             iconName="24/Menu"
