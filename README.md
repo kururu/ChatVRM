@@ -90,4 +90,4 @@ public/bgm01.mp3
 
 ブラウザで実行したときの様子はこちらです。
 
-[![デモ動画](https://github.com/kururu/ChatVRM/assets/909549/2fa68169-ac85-43b3-9214-2ebecac8de3d)](https://www.youtube.com/watch?v=_Sd3d4zN7yo)
+[![デモ動画](https://github.com/user-attachments/assets/df0b09b0-130c-47ed-a5e4-9af6165afa3d)](https://www.youtube.com/watch?v=_Sd3d4zN7yo)
